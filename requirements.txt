@@ -1,0 +1,27 @@
+# Cliente para Azure OpenAI (embeddings + chat)
+openai>=1.40.0
+
+# Tokenización por modelo (para chunking por tokens)
+tiktoken
+
+# Lectura de PDFs
+pypdf
+
+# Indexación vectorial
+faiss-cpu
+
+# Manejo de datos
+numpy
+pandas
+pyarrow
+
+# Barras de progreso
+tqdm
+
+# Manejo de variables de entorno (API keys, endpoints)
+python-dotenv
+
+# Notebooks y gráficos
+jupyter
+ipykernel
+matplotlib
